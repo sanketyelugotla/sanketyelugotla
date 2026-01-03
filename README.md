@@ -20,6 +20,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```javascript
 const sanket = {
     pronouns: "He" | "Him",
@@ -30,8 +32,6 @@ const sanket = {
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
-
-<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 Currently working on **scalable web applications**
 - 🌱 Learning **DevOps, Cloud Architecture & AI/ML**
@@ -80,7 +80,7 @@ const sanket = {
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -109,23 +109,13 @@ const sanket = {
 
 ---
 
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanketyelugotla&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
---- -->
-
 ## 🤝 Let's Connect!
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanketyelugotla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanketyelugotla.vercel.app)
-[![Email](https://img.shields.io/badge/Email -EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketyelugotla123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketyelugotla123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketyelugotla)
 [![Organization](https://img.shields.io/badge/Aptcode--sol-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aptcode-sol)
 
