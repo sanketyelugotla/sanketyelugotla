@@ -91,11 +91,11 @@ const sanket = {
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanketyelugotla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 ---
 
